@@ -15,7 +15,7 @@ There are a few preferences regarding code contributions:
 
 Thanks!  JF
 
-#** NOT READY FOR PRIME TIME **
+# ** NOT READY FOR PRIME TIME **
 
 When the branches are ready for actual developers, I'll remove this message.
 For the next few months this project is closed to external developers.
