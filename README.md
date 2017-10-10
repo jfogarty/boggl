@@ -19,7 +19,7 @@ composition, generation, distribution and monitoring of machine intelligence mod
 
 ![backgound brain art](images/art/boggl_banner.jpg)
 
-##NOT READY FOR PRIME TIME
+## NOT READY FOR PRIME TIME
 
 When an alpha release is available I'll remove this message.
 For the next year or so this project is closed to external developers.
