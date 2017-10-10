@@ -66,8 +66,7 @@ These can be implemened with existing tools such as
 [deep_q_rl][deep_q_rl], 
 or [GroundHog][GroundHog],
 
-It is relatively language neutral so python, lua, go, js and even C are acceptable
-for module implementation, although the best suport is currently for python.
+It is relatively language neutral so python, lua, go, js and even C are acceptable for module implementation, although the best support is currently for python.
 
 boggl is **not** abstraction neutral as it follows a fairly rigid model for
 how it expects modules to process inputs and provide results. It is
